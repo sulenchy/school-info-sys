@@ -1,0 +1,23 @@
+{
+  "name": "school-info-sys",
+  "version": "1.0.0",
+  "description": "an api backend running on node web server that have endpoints to handle a basic school info system",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gtihub.com/sulenchy/school-info-sys"
+  },
+  "author": "sulenchy",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongodb": "^2.2.33"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
