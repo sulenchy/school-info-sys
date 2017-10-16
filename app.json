@@ -1,0 +1,8 @@
+{
+    "name": "School Information System Node Web server",
+    "description": "an api backend running on node web server that have endpoints to handle a basic school info system",
+    "repository":"https://github.com/sulenchy/school-info-sys",
+    "logo": "http://node-js-sample.herokuapp.com/node.svg",
+    "keywords":["node","express","static"],
+    "image":"heroku/nodejs"
+}
